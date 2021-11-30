@@ -1,5 +1,5 @@
 # hob2hood-faber
-Controlling unsupported Faber hood using AEG Hob2Hood. Input signals comming from induction hob (that supports hob2hood) get "translated" to apropriate output IR signals that are used to control the hood.
+Controlling unsupported Faber hood using AEG Hob2Hood. Input signals coming from induction hob (that supports hob2hood) get "translated" to apropriate output IR signals that are used to control the hood.
 
 ## Hardware 
 Follow this guide for instructions about parts.
